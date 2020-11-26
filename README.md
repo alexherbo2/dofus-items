@@ -4,6 +4,8 @@
 
 [Dofus]: https://dofus.com
 
+**Note**: Items marked with a tilde (`~`) in their path are items I don’t have anymore.
+
 ###### [`ceremonial-item/hat/galgarion-helmet.webp`](ceremonial-item/hat/galgarion-helmet.webp)
 ![ceremonial-item/hat/galgarion-helmet.webp](ceremonial-item/hat/galgarion-helmet.webp)
 ###### [`ceremonial-item/shield/justice-shield.webp`](ceremonial-item/shield/justice-shield.webp)
