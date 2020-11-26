@@ -1,0 +1,4 @@
+#!/bin/sh
+
+fd --type file .webp |
+kak -f '<a-s>_i![](<esc>a)<esc>'
