@@ -1,4 +1,4 @@
 #!/bin/sh
 
 fd --type file .webp |
-kak -f '<a-s>_yi![<c-r>"](<esc>a)<esc>O[`<c-r>"`](<c-r>")'
+kak -f '<a-s>_yi![<c-r>"](<esc>a)<esc>O######<space>[`<c-r>"`](<c-r>")'
