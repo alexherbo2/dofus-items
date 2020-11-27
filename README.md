@@ -20,6 +20,8 @@
 ![ceremonial-item/cloak/zombite-cape.webp](ceremonial-item/cloak/zombite-cape.webp)
 ###### [`ceremonial-item/hat/cra-burnt-headgear.webp`](ceremonial-item/hat/cra-burnt-headgear.webp)
 ![ceremonial-item/hat/cra-burnt-headgear.webp](ceremonial-item/hat/cra-burnt-headgear.webp)
+###### [`ceremonial-item/hat/esspeakewlair-helmet.webp`](ceremonial-item/hat/esspeakewlair-helmet.webp)
+![ceremonial-item/hat/esspeakewlair-helmet.webp](ceremonial-item/hat/esspeakewlair-helmet.webp)
 ###### [`ceremonial-item/hat/galgarion-helmet.webp`](ceremonial-item/hat/galgarion-helmet.webp)
 ![ceremonial-item/hat/galgarion-helmet.webp](ceremonial-item/hat/galgarion-helmet.webp)
 ###### [`ceremonial-item/hat/goultard-headgear.webp`](ceremonial-item/hat/goultard-headgear.webp)
