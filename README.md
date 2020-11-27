@@ -354,6 +354,8 @@
 ![equipment/shield/four-leaf-vitality-feudala-shield-afterimage.webp](equipment/shield/four-leaf-vitality-feudala-shield-afterimage.webp)
 ###### [`equipment/shield/ilyzaelle-shield.webp`](equipment/shield/ilyzaelle-shield.webp)
 ![equipment/shield/ilyzaelle-shield.webp](equipment/shield/ilyzaelle-shield.webp)
+###### [`equipment/shield/invisible-shield-pods.webp`](equipment/shield/invisible-shield-pods.webp)
+![equipment/shield/invisible-shield-pods.webp](equipment/shield/invisible-shield-pods.webp)
 ###### [`equipment/shield/stalak-shield-vitality.webp`](equipment/shield/stalak-shield-vitality.webp)
 ![equipment/shield/stalak-shield-vitality.webp](equipment/shield/stalak-shield-vitality.webp)
 ###### [`equipment/shield/war-fortress.webp`](equipment/shield/war-fortress.webp)
