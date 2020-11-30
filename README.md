@@ -564,8 +564,6 @@
 ![pets/petsmount/skrot.webp](pets/petsmount/skrot.webp)
 ###### [`weapons/axe/canni-blade.webp`](weapons/axe/canni-blade.webp)
 ![weapons/axe/canni-blade.webp](weapons/axe/canni-blade.webp)
-###### [`weapons/axe/catseye-axe.webp`](weapons/axe/catseye-axe.webp)
-![weapons/axe/catseye-axe.webp](weapons/axe/catseye-axe.webp)
 ###### [`weapons/axe/heqaxe.webp`](weapons/axe/heqaxe.webp)
 ![weapons/axe/heqaxe.webp](weapons/axe/heqaxe.webp)
 ###### [`weapons/axe/mantax-air-resistance.webp`](weapons/axe/mantax-air-resistance.webp)
