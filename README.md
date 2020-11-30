@@ -588,8 +588,6 @@
 ![weapons/dagger/aggravating-daggers-water-damage.webp](weapons/dagger/aggravating-daggers-water-damage.webp)
 ###### [`weapons/dagger/daguanos-water-resistance.webp`](weapons/dagger/daguanos-water-resistance.webp)
 ![weapons/dagger/daguanos-water-resistance.webp](weapons/dagger/daguanos-water-resistance.webp)
-###### [`weapons/dagger/flinty-daggers.webp`](weapons/dagger/flinty-daggers.webp)
-![weapons/dagger/flinty-daggers.webp](weapons/dagger/flinty-daggers.webp)
 ###### [`weapons/dagger/gaga-daggers-vitality.webp`](weapons/dagger/gaga-daggers-vitality.webp)
 ![weapons/dagger/gaga-daggers-vitality.webp](weapons/dagger/gaga-daggers-vitality.webp)
 ###### [`weapons/dagger/joyous-seizers-fire-damage-fire-resistance.webp`](weapons/dagger/joyous-seizers-fire-damage-fire-resistance.webp)
