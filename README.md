@@ -150,6 +150,8 @@
 ![ceremonial-item/shield/raydi-shield.webp](ceremonial-item/shield/raydi-shield.webp)
 ###### [`ceremonial-item/shield/soft-oak-shield.webp`](ceremonial-item/shield/soft-oak-shield.webp)
 ![ceremonial-item/shield/soft-oak-shield.webp](ceremonial-item/shield/soft-oak-shield.webp)
+###### [`ceremonial-item/weapons/bow/noxbow.webp`](ceremonial-item/weapons/bow/noxbow.webp)
+![ceremonial-item/weapons/bow/noxbow.webp](ceremonial-item/weapons/bow/noxbow.webp)
 ###### [`ceremonial-item/weapons/sword/samurai-sword.webp`](ceremonial-item/weapons/sword/samurai-sword.webp)
 ![ceremonial-item/weapons/sword/samurai-sword.webp](ceremonial-item/weapons/sword/samurai-sword.webp)
 ###### [`cosmetics/living-object/cloak/shushivin-cape-9.webp`](cosmetics/living-object/cloak/shushivin-cape-9.webp)
