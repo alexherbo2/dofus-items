@@ -162,6 +162,8 @@
 ![ceremonial-item/shield/soft-oak-shield.webp](ceremonial-item/shield/soft-oak-shield.webp)
 ###### [`ceremonial-item/weapons/bow/noxbow.webp`](ceremonial-item/weapons/bow/noxbow.webp)
 ![ceremonial-item/weapons/bow/noxbow.webp](ceremonial-item/weapons/bow/noxbow.webp)
+###### [`ceremonial-item/weapons/hammer/percimol-hammer.webp`](ceremonial-item/weapons/hammer/percimol-hammer.webp)
+![ceremonial-item/weapons/hammer/percimol-hammer.webp](ceremonial-item/weapons/hammer/percimol-hammer.webp)
 ###### [`ceremonial-item/weapons/shovel/stroud-shovel.webp`](ceremonial-item/weapons/shovel/stroud-shovel.webp)
 ![ceremonial-item/weapons/shovel/stroud-shovel.webp](ceremonial-item/weapons/shovel/stroud-shovel.webp)
 ###### [`ceremonial-item/weapons/staff/monarch-staff.webp`](ceremonial-item/weapons/staff/monarch-staff.webp)
