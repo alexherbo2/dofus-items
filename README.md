@@ -598,8 +598,6 @@
 ![weapons/dagger/srambad-daggers-air-resistance.webp](weapons/dagger/srambad-daggers-air-resistance.webp)
 ###### [`weapons/hammer/hammerture-earth-resistance.webp`](weapons/hammer/hammerture-earth-resistance.webp)
 ![weapons/hammer/hammerture-earth-resistance.webp](weapons/hammer/hammerture-earth-resistance.webp)
-###### [`weapons/staff/bitrydent.webp`](weapons/staff/bitrydent.webp)
-![weapons/staff/bitrydent.webp](weapons/staff/bitrydent.webp)
 ###### [`weapons/staff/ensorcel-lance-air-resistance.webp`](weapons/staff/ensorcel-lance-air-resistance.webp)
 ![weapons/staff/ensorcel-lance-air-resistance.webp](weapons/staff/ensorcel-lance-air-resistance.webp)
 ###### [`weapons/staff/king-playa-scepta-water-resistance.webp`](weapons/staff/king-playa-scepta-water-resistance.webp)
