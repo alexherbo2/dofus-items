@@ -366,6 +366,8 @@
 ![equipment/hat/dark-makroute-vitality.webp](equipment/hat/dark-makroute-vitality.webp)
 ###### [`equipment/hat/daudgee.webp`](equipment/hat/daudgee.webp)
 ![equipment/hat/daudgee.webp](equipment/hat/daudgee.webp)
+###### [`equipment/hat/dora-bora-pods.webp`](equipment/hat/dora-bora-pods.webp)
+![equipment/hat/dora-bora-pods.webp](equipment/hat/dora-bora-pods.webp)
 ###### [`equipment/hat/dora-strength.webp`](equipment/hat/dora-strength.webp)
 ![equipment/hat/dora-strength.webp](equipment/hat/dora-strength.webp)
 ###### [`equipment/hat/dorabyss-eachure-afterimage.webp`](equipment/hat/dorabyss-eachure-afterimage.webp)
