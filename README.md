@@ -208,6 +208,8 @@
 ![equipment/amulet/treadfast-amulet-ranged-damage.webp](equipment/amulet/treadfast-amulet-ranged-damage.webp)
 ###### [`equipment/backpack/cawwot-bag-pods.webp`](equipment/backpack/cawwot-bag-pods.webp)
 ![equipment/backpack/cawwot-bag-pods.webp](equipment/backpack/cawwot-bag-pods.webp)
+###### [`equipment/backpack/large-adventurer-bag-strength.webp`](equipment/backpack/large-adventurer-bag-strength.webp)
+![equipment/backpack/large-adventurer-bag-strength.webp](equipment/backpack/large-adventurer-bag-strength.webp)
 ###### [`equipment/backpack/staca-noviste-rucksack-strength.webp`](equipment/backpack/staca-noviste-rucksack-strength.webp)
 ![equipment/backpack/staca-noviste-rucksack-strength.webp](equipment/backpack/staca-noviste-rucksack-strength.webp)
 ###### [`equipment/backpack/turtelonia-carapace.webp`](equipment/backpack/turtelonia-carapace.webp)
