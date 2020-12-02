@@ -398,6 +398,8 @@
 ![equipment/hat/lorko-kasko.webp](equipment/hat/lorko-kasko.webp)
 ###### [`equipment/hat/makroute.webp`](equipment/hat/makroute.webp)
 ![equipment/hat/makroute.webp](equipment/hat/makroute.webp)
+###### [`equipment/hat/minot-horn.webp`](equipment/hat/minot-horn.webp)
+![equipment/hat/minot-horn.webp](equipment/hat/minot-horn.webp)
 ###### [`equipment/hat/nomarow-helmet-ranged-damage.webp`](equipment/hat/nomarow-helmet-ranged-damage.webp)
 ![equipment/hat/nomarow-helmet-ranged-damage.webp](equipment/hat/nomarow-helmet-ranged-damage.webp)
 ###### [`equipment/hat/octovius.webp`](equipment/hat/octovius.webp)
