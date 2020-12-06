@@ -216,6 +216,8 @@
 ![equipment/backpack/turtelonia-carapace.webp](equipment/backpack/turtelonia-carapace.webp)
 ###### [`equipment/backpack/volcanic-bag.webp`](equipment/backpack/volcanic-bag.webp)
 ![equipment/backpack/volcanic-bag.webp](equipment/backpack/volcanic-bag.webp)
+###### [`equipment/belt/belteen-earth-resistance.webp`](equipment/belt/belteen-earth-resistance.webp)
+![equipment/belt/belteen-earth-resistance.webp](equipment/belt/belteen-earth-resistance.webp)
 ###### [`equipment/belt/broucey-belt-ranged-damage.webp`](equipment/belt/broucey-belt-ranged-damage.webp)
 ![equipment/belt/broucey-belt-ranged-damage.webp](equipment/belt/broucey-belt-ranged-damage.webp)
 ###### [`equipment/belt/coco-blop-belt-suicide.webp`](equipment/belt/coco-blop-belt-suicide.webp)
