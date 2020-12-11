@@ -396,6 +396,8 @@
 ![equipment/hat/kideebonnet-range-water-resistance.webp](equipment/hat/kideebonnet-range-water-resistance.webp)
 ###### [`equipment/hat/king-playa-crown-earth-resistance.webp`](equipment/hat/king-playa-crown-earth-resistance.webp)
 ![equipment/hat/king-playa-crown-earth-resistance.webp](equipment/hat/king-playa-crown-earth-resistance.webp)
+###### [`equipment/hat/king-playa-crown.webp`](equipment/hat/king-playa-crown.webp)
+![equipment/hat/king-playa-crown.webp](equipment/hat/king-playa-crown.webp)
 ###### [`equipment/hat/limestone-dreggheadgear-neutral-resistance.webp`](equipment/hat/limestone-dreggheadgear-neutral-resistance.webp)
 ![equipment/hat/limestone-dreggheadgear-neutral-resistance.webp](equipment/hat/limestone-dreggheadgear-neutral-resistance.webp)
 ###### [`equipment/hat/lorko-kasko.webp`](equipment/hat/lorko-kasko.webp)
