@@ -246,6 +246,8 @@
 ![equipment/belt/queen-thieves-belt-air-resistance.webp](equipment/belt/queen-thieves-belt-air-resistance.webp)
 ###### [`equipment/belt/rhineetle-belt-earth-resistance.webp`](equipment/belt/rhineetle-belt-earth-resistance.webp)
 ![equipment/belt/rhineetle-belt-earth-resistance.webp](equipment/belt/rhineetle-belt-earth-resistance.webp)
+###### [`equipment/belt/rhineetle-belt.webp`](equipment/belt/rhineetle-belt.webp)
+![equipment/belt/rhineetle-belt.webp](equipment/belt/rhineetle-belt.webp)
 ###### [`equipment/belt/royal-gobball-belt-pods.webp`](equipment/belt/royal-gobball-belt-pods.webp)
 ![equipment/belt/royal-gobball-belt-pods.webp](equipment/belt/royal-gobball-belt-pods.webp)
 ###### [`equipment/belt/slice-undergrowth.webp`](equipment/belt/slice-undergrowth.webp)
