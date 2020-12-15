@@ -206,6 +206,8 @@
 ![equipment/amulet/rhineetle-amulet.webp](equipment/amulet/rhineetle-amulet.webp)
 ###### [`equipment/amulet/spookkoth-amulet-water-resistance.webp`](equipment/amulet/spookkoth-amulet-water-resistance.webp)
 ![equipment/amulet/spookkoth-amulet-water-resistance.webp](equipment/amulet/spookkoth-amulet-water-resistance.webp)
+###### [`equipment/amulet/spookkoth-amulet.webp`](equipment/amulet/spookkoth-amulet.webp)
+![equipment/amulet/spookkoth-amulet.webp](equipment/amulet/spookkoth-amulet.webp)
 ###### [`equipment/amulet/summer-leaf-suicide.webp`](equipment/amulet/summer-leaf-suicide.webp)
 ![equipment/amulet/summer-leaf-suicide.webp](equipment/amulet/summer-leaf-suicide.webp)
 ###### [`equipment/amulet/treadfast-amulet-ranged-damage.webp`](equipment/amulet/treadfast-amulet-ranged-damage.webp)
