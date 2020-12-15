@@ -202,6 +202,8 @@
 ![equipment/amulet/renewed-amulet-pods.webp](equipment/amulet/renewed-amulet-pods.webp)
 ###### [`equipment/amulet/rhineetle-amulet-earth-resistance.webp`](equipment/amulet/rhineetle-amulet-earth-resistance.webp)
 ![equipment/amulet/rhineetle-amulet-earth-resistance.webp](equipment/amulet/rhineetle-amulet-earth-resistance.webp)
+###### [`equipment/amulet/rhineetle-amulet.webp`](equipment/amulet/rhineetle-amulet.webp)
+![equipment/amulet/rhineetle-amulet.webp](equipment/amulet/rhineetle-amulet.webp)
 ###### [`equipment/amulet/spookkoth-amulet-water-resistance.webp`](equipment/amulet/spookkoth-amulet-water-resistance.webp)
 ![equipment/amulet/spookkoth-amulet-water-resistance.webp](equipment/amulet/spookkoth-amulet-water-resistance.webp)
 ###### [`equipment/amulet/summer-leaf-suicide.webp`](equipment/amulet/summer-leaf-suicide.webp)
