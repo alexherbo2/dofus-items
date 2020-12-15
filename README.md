@@ -330,6 +330,8 @@
 ![equipment/cloak/jammy-jack-cape.webp](equipment/cloak/jammy-jack-cape.webp)
 ###### [`equipment/cloak/merdiodon-cloak-fire-resistance.webp`](equipment/cloak/merdiodon-cloak-fire-resistance.webp)
 ![equipment/cloak/merdiodon-cloak-fire-resistance.webp](equipment/cloak/merdiodon-cloak-fire-resistance.webp)
+###### [`equipment/cloak/merdiodon-cloak.webp`](equipment/cloak/merdiodon-cloak.webp)
+![equipment/cloak/merdiodon-cloak.webp](equipment/cloak/merdiodon-cloak.webp)
 ###### [`equipment/cloak/minotot-cloak.webp`](equipment/cloak/minotot-cloak.webp)
 ![equipment/cloak/minotot-cloak.webp](equipment/cloak/minotot-cloak.webp)
 ###### [`equipment/cloak/rags.webp`](equipment/cloak/rags.webp)
