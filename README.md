@@ -248,6 +248,8 @@
 ![equipment/belt/pippin-blop-belt-suicide.webp](equipment/belt/pippin-blop-belt-suicide.webp)
 ###### [`equipment/belt/queen-thieves-belt-air-resistance.webp`](equipment/belt/queen-thieves-belt-air-resistance.webp)
 ![equipment/belt/queen-thieves-belt-air-resistance.webp](equipment/belt/queen-thieves-belt-air-resistance.webp)
+###### [`equipment/belt/queen-thieves-belt.webp`](equipment/belt/queen-thieves-belt.webp)
+![equipment/belt/queen-thieves-belt.webp](equipment/belt/queen-thieves-belt.webp)
 ###### [`equipment/belt/rhineetle-belt-earth-resistance.webp`](equipment/belt/rhineetle-belt-earth-resistance.webp)
 ![equipment/belt/rhineetle-belt-earth-resistance.webp](equipment/belt/rhineetle-belt-earth-resistance.webp)
 ###### [`equipment/belt/rhineetle-belt.webp`](equipment/belt/rhineetle-belt.webp)
