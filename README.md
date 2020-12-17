@@ -306,6 +306,8 @@
 ![equipment/boots/war-treads.webp](equipment/boots/war-treads.webp)
 ###### [`equipment/boots/xlii-boots-vitality.webp`](equipment/boots/xlii-boots-vitality.webp)
 ![equipment/boots/xlii-boots-vitality.webp](equipment/boots/xlii-boots-vitality.webp)
+###### [`equipment/cloak/absoluti-cape-vitality.webp`](equipment/cloak/absoluti-cape-vitality.webp)
+![equipment/cloak/absoluti-cape-vitality.webp](equipment/cloak/absoluti-cape-vitality.webp)
 ###### [`equipment/cloak/absoluti-cape-water-resistance.webp`](equipment/cloak/absoluti-cape-water-resistance.webp)
 ![equipment/cloak/absoluti-cape-water-resistance.webp](equipment/cloak/absoluti-cape-water-resistance.webp)
 ###### [`equipment/cloak/atcham-cape.webp`](equipment/cloak/atcham-cape.webp)
