@@ -288,6 +288,8 @@
 ![equipment/boots/pippin-bloopts-suicide.webp](equipment/boots/pippin-bloopts-suicide.webp)
 ###### [`equipment/boots/queen-thieves-boots-air-resistance.webp`](equipment/boots/queen-thieves-boots-air-resistance.webp)
 ![equipment/boots/queen-thieves-boots-air-resistance.webp](equipment/boots/queen-thieves-boots-air-resistance.webp)
+###### [`equipment/boots/queen-thieves-boots-vitality.webp`](equipment/boots/queen-thieves-boots-vitality.webp)
+![equipment/boots/queen-thieves-boots-vitality.webp](equipment/boots/queen-thieves-boots-vitality.webp)
 ###### [`equipment/boots/shabby-shoes-earth-resistance.webp`](equipment/boots/shabby-shoes-earth-resistance.webp)
 ![equipment/boots/shabby-shoes-earth-resistance.webp](equipment/boots/shabby-shoes-earth-resistance.webp)
 ###### [`equipment/boots/slothful-slippers-vitality.webp`](equipment/boots/slothful-slippers-vitality.webp)
