@@ -182,6 +182,8 @@
 ![cosmetics/living-object/hat/coulive-headgear-8.webp](cosmetics/living-object/hat/coulive-headgear-8.webp)
 ###### [`cosmetics/living-object/hat/livitinem-hat-1.webp`](cosmetics/living-object/hat/livitinem-hat-1.webp)
 ![cosmetics/living-object/hat/livitinem-hat-1.webp](cosmetics/living-object/hat/livitinem-hat-1.webp)
+###### [`cosmetics/living-object/ring/livitinem-ring-20.webp`](cosmetics/living-object/ring/livitinem-ring-20.webp)
+![cosmetics/living-object/ring/livitinem-ring-20.webp](cosmetics/living-object/ring/livitinem-ring-20.webp)
 ###### [`equipment/amulet/amulet-bleeding-heart-earth-resistance.webp`](equipment/amulet/amulet-bleeding-heart-earth-resistance.webp)
 ![equipment/amulet/amulet-bleeding-heart-earth-resistance.webp](equipment/amulet/amulet-bleeding-heart-earth-resistance.webp)
 ###### [`equipment/amulet/amulet-bleeding-heart-ranged-damage.webp`](equipment/amulet/amulet-bleeding-heart-ranged-damage.webp)
