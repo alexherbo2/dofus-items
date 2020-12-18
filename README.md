@@ -174,6 +174,8 @@
 ![ceremonial-item/weapons/sword/julith-sword.webp](ceremonial-item/weapons/sword/julith-sword.webp)
 ###### [`ceremonial-item/weapons/sword/samurai-sword.webp`](ceremonial-item/weapons/sword/samurai-sword.webp)
 ![ceremonial-item/weapons/sword/samurai-sword.webp](ceremonial-item/weapons/sword/samurai-sword.webp)
+###### [`cosmetics/living-object/amulet/livitinem-amulet-12.webp`](cosmetics/living-object/amulet/livitinem-amulet-12.webp)
+![cosmetics/living-object/amulet/livitinem-amulet-12.webp](cosmetics/living-object/amulet/livitinem-amulet-12.webp)
 ###### [`cosmetics/living-object/cloak/shushivin-cape-9.webp`](cosmetics/living-object/cloak/shushivin-cape-9.webp)
 ![cosmetics/living-object/cloak/shushivin-cape-9.webp](cosmetics/living-object/cloak/shushivin-cape-9.webp)
 ###### [`cosmetics/living-object/hat/coulive-headgear-8.webp`](cosmetics/living-object/hat/coulive-headgear-8.webp)
