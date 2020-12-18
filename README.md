@@ -534,6 +534,8 @@
 ![equipment/shield/four-leaf-spell-damage.webp](equipment/shield/four-leaf-spell-damage.webp)
 ###### [`equipment/shield/four-leaf-vitality-feudala-shield-afterimage.webp`](equipment/shield/four-leaf-vitality-feudala-shield-afterimage.webp)
 ![equipment/shield/four-leaf-vitality-feudala-shield-afterimage.webp](equipment/shield/four-leaf-vitality-feudala-shield-afterimage.webp)
+###### [`equipment/shield/ilyzaelle-shield-vitality.webp`](equipment/shield/ilyzaelle-shield-vitality.webp)
+![equipment/shield/ilyzaelle-shield-vitality.webp](equipment/shield/ilyzaelle-shield-vitality.webp)
 ###### [`equipment/shield/ilyzaelle-shield.webp`](equipment/shield/ilyzaelle-shield.webp)
 ![equipment/shield/ilyzaelle-shield.webp](equipment/shield/ilyzaelle-shield.webp)
 ###### [`equipment/shield/invisible-shield-chance.webp`](equipment/shield/invisible-shield-chance.webp)
