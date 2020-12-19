@@ -420,6 +420,8 @@
 ![equipment/hat/ilyzaelle-helmet.webp](equipment/hat/ilyzaelle-helmet.webp)
 ###### [`equipment/hat/kideebonnet-range-water-resistance.webp`](equipment/hat/kideebonnet-range-water-resistance.webp)
 ![equipment/hat/kideebonnet-range-water-resistance.webp](equipment/hat/kideebonnet-range-water-resistance.webp)
+###### [`equipment/hat/kideebonnet.webp`](equipment/hat/kideebonnet.webp)
+![equipment/hat/kideebonnet.webp](equipment/hat/kideebonnet.webp)
 ###### [`equipment/hat/king-playa-crown-earth-resistance.webp`](equipment/hat/king-playa-crown-earth-resistance.webp)
 ![equipment/hat/king-playa-crown-earth-resistance.webp](equipment/hat/king-playa-crown-earth-resistance.webp)
 ###### [`equipment/hat/king-playa-crown.webp`](equipment/hat/king-playa-crown.webp)
