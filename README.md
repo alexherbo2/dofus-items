@@ -696,6 +696,8 @@
 ![weapons/bow/catseye-bow-ranged-damage-hunting-weapon.webp](weapons/bow/catseye-bow-ranged-damage-hunting-weapon.webp)
 ###### [`weapons/bow/corrupted-bow-fire-resistance.webp`](weapons/bow/corrupted-bow-fire-resistance.webp)
 ![weapons/bow/corrupted-bow-fire-resistance.webp](weapons/bow/corrupted-bow-fire-resistance.webp)
+###### [`weapons/bow/corrupted-bow-hunting-weapon.webp`](weapons/bow/corrupted-bow-hunting-weapon.webp)
+![weapons/bow/corrupted-bow-hunting-weapon.webp](weapons/bow/corrupted-bow-hunting-weapon.webp)
 ###### [`weapons/bow/rhineetle-bow-ranged-damage.webp`](weapons/bow/rhineetle-bow-ranged-damage.webp)
 ![weapons/bow/rhineetle-bow-ranged-damage.webp](weapons/bow/rhineetle-bow-ranged-damage.webp)
 ###### [`weapons/dagger/aggravating-daggers-water-damage.webp`](weapons/dagger/aggravating-daggers-water-damage.webp)
