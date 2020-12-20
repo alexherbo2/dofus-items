@@ -254,6 +254,8 @@
 ![equipment/belt/indigo-blop-belt-suicide.webp](equipment/belt/indigo-blop-belt-suicide.webp)
 ###### [`equipment/belt/menobelt-air-resistance.webp`](equipment/belt/menobelt-air-resistance.webp)
 ![equipment/belt/menobelt-air-resistance.webp](equipment/belt/menobelt-air-resistance.webp)
+###### [`equipment/belt/menobelt.webp`](equipment/belt/menobelt.webp)
+![equipment/belt/menobelt.webp](equipment/belt/menobelt.webp)
 ###### [`equipment/belt/minotot-belt.webp`](equipment/belt/minotot-belt.webp)
 ![equipment/belt/minotot-belt.webp](equipment/belt/minotot-belt.webp)
 ###### [`equipment/belt/morello-cherry-blop-belt-suicide.webp`](equipment/belt/morello-cherry-blop-belt-suicide.webp)
