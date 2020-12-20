@@ -244,6 +244,8 @@
 ![equipment/belt/corruption-brambelt-ranged-damage.webp](equipment/belt/corruption-brambelt-ranged-damage.webp)
 ###### [`equipment/belt/crocobelt-fire-resistance.webp`](equipment/belt/crocobelt-fire-resistance.webp)
 ![equipment/belt/crocobelt-fire-resistance.webp](equipment/belt/crocobelt-fire-resistance.webp)
+###### [`equipment/belt/crocobelt.webp`](equipment/belt/crocobelt.webp)
+![equipment/belt/crocobelt.webp](equipment/belt/crocobelt.webp)
 ###### [`equipment/belt/glacial-belt.webp`](equipment/belt/glacial-belt.webp)
 ![equipment/belt/glacial-belt.webp](equipment/belt/glacial-belt.webp)
 ###### [`equipment/belt/haks-or-belt.webp`](equipment/belt/haks-or-belt.webp)
