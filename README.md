@@ -728,6 +728,8 @@
 ![weapons/staff/ensorcel-lance-air-resistance.webp](weapons/staff/ensorcel-lance-air-resistance.webp)
 ###### [`weapons/staff/king-playa-scepta-water-resistance.webp`](weapons/staff/king-playa-scepta-water-resistance.webp)
 ![weapons/staff/king-playa-scepta-water-resistance.webp](weapons/staff/king-playa-scepta-water-resistance.webp)
+###### [`weapons/staff/king-playa-scepta.webp`](weapons/staff/king-playa-scepta.webp)
+![weapons/staff/king-playa-scepta.webp](weapons/staff/king-playa-scepta.webp)
 ###### [`weapons/staff/minotot-sceptre.webp`](weapons/staff/minotot-sceptre.webp)
 ![weapons/staff/minotot-sceptre.webp](weapons/staff/minotot-sceptre.webp)
 ###### [`weapons/staff/sepulchral-sceptre.webp`](weapons/staff/sepulchral-sceptre.webp)
