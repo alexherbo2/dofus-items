@@ -322,6 +322,8 @@
 ![equipment/boots/treadfast-boots-ranged-damage.webp](equipment/boots/treadfast-boots-ranged-damage.webp)
 ###### [`equipment/boots/tritun-palms-air-resistance.webp`](equipment/boots/tritun-palms-air-resistance.webp)
 ![equipment/boots/tritun-palms-air-resistance.webp](equipment/boots/tritun-palms-air-resistance.webp)
+###### [`equipment/boots/tritun-palms.webp`](equipment/boots/tritun-palms.webp)
+![equipment/boots/tritun-palms.webp](equipment/boots/tritun-palms.webp)
 ###### [`equipment/boots/unnamable-boots-fire-resistance.webp`](equipment/boots/unnamable-boots-fire-resistance.webp)
 ![equipment/boots/unnamable-boots-fire-resistance.webp](equipment/boots/unnamable-boots-fire-resistance.webp)
 ###### [`equipment/boots/war-treads.webp`](equipment/boots/war-treads.webp)
