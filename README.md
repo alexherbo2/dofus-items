@@ -474,6 +474,8 @@
 ![equipment/hat/royal-gobball-headgear-strength.webp](equipment/hat/royal-gobball-headgear-strength.webp)
 ###### [`equipment/hat/scapu-helm-fire-resistance.webp`](equipment/hat/scapu-helm-fire-resistance.webp)
 ![equipment/hat/scapu-helm-fire-resistance.webp](equipment/hat/scapu-helm-fire-resistance.webp)
+###### [`equipment/hat/scapu-helm.webp`](equipment/hat/scapu-helm.webp)
+![equipment/hat/scapu-helm.webp](equipment/hat/scapu-helm.webp)
 ###### [`equipment/hat/slate-dreggheadgear-old.webp`](equipment/hat/slate-dreggheadgear-old.webp)
 ![equipment/hat/slate-dreggheadgear-old.webp](equipment/hat/slate-dreggheadgear-old.webp)
 ###### [`equipment/hat/solomonk-vitality.webp`](equipment/hat/solomonk-vitality.webp)
