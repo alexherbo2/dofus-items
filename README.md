@@ -300,6 +300,8 @@
 ![equipment/boots/coco-bloopts-suicide.webp](equipment/boots/coco-bloopts-suicide.webp)
 ###### [`equipment/boots/indigo-bloopts-suicide.webp`](equipment/boots/indigo-bloopts-suicide.webp)
 ![equipment/boots/indigo-bloopts-suicide.webp](equipment/boots/indigo-bloopts-suicide.webp)
+###### [`equipment/boots/king-playa-boots.webp`](equipment/boots/king-playa-boots.webp)
+![equipment/boots/king-playa-boots.webp](equipment/boots/king-playa-boots.webp)
 ###### [`equipment/boots/moowolf-boots-pods.webp`](equipment/boots/moowolf-boots-pods.webp)
 ![equipment/boots/moowolf-boots-pods.webp](equipment/boots/moowolf-boots-pods.webp)
 ###### [`equipment/boots/morello-cherry-bloopts-suicide.webp`](equipment/boots/morello-cherry-bloopts-suicide.webp)
