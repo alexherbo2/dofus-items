@@ -540,6 +540,8 @@
 ![equipment/ring/kwismas-ring.webp](equipment/ring/kwismas-ring.webp)
 ###### [`equipment/ring/minotot-bracelet.webp`](equipment/ring/minotot-bracelet.webp)
 ![equipment/ring/minotot-bracelet.webp](equipment/ring/minotot-bracelet.webp)
+###### [`equipment/ring/misery-greed-mp.webp`](equipment/ring/misery-greed-mp.webp)
+![equipment/ring/misery-greed-mp.webp](equipment/ring/misery-greed-mp.webp)
 ###### [`equipment/ring/nomarow-ring-mp.webp`](equipment/ring/nomarow-ring-mp.webp)
 ![equipment/ring/nomarow-ring-mp.webp](equipment/ring/nomarow-ring-mp.webp)
 ###### [`equipment/ring/nose-ring.webp`](equipment/ring/nose-ring.webp)
