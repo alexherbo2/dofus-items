@@ -732,6 +732,8 @@
 ![weapons/bow/archetypal-bow-water-damage-fire-resistance.webp](weapons/bow/archetypal-bow-water-damage-fire-resistance.webp)
 ###### [`weapons/bow/archon-bow-fire-damage.webp`](weapons/bow/archon-bow-fire-damage.webp)
 ![weapons/bow/archon-bow-fire-damage.webp](weapons/bow/archon-bow-fire-damage.webp)
+###### [`weapons/bow/bobimcarl-bow.webp`](weapons/bow/bobimcarl-bow.webp)
+![weapons/bow/bobimcarl-bow.webp](weapons/bow/bobimcarl-bow.webp)
 ###### [`weapons/bow/catseye-bow-earth-resistance.webp`](weapons/bow/catseye-bow-earth-resistance.webp)
 ![weapons/bow/catseye-bow-earth-resistance.webp](weapons/bow/catseye-bow-earth-resistance.webp)
 ###### [`weapons/bow/catseye-bow-neutral-damage.webp`](weapons/bow/catseye-bow-neutral-damage.webp)
