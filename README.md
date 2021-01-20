@@ -766,6 +766,8 @@
 ![weapons/dagger/srambad-daggers-air-resistance.webp](weapons/dagger/srambad-daggers-air-resistance.webp)
 ###### [`weapons/hammer/hammerture-earth-resistance.webp`](weapons/hammer/hammerture-earth-resistance.webp)
 ![weapons/hammer/hammerture-earth-resistance.webp](weapons/hammer/hammerture-earth-resistance.webp)
+###### [`weapons/staff/aermyne-rolling-pin.webp`](weapons/staff/aermyne-rolling-pin.webp)
+![weapons/staff/aermyne-rolling-pin.webp](weapons/staff/aermyne-rolling-pin.webp)
 ###### [`weapons/staff/ensorcel-lance-air-resistance.webp`](weapons/staff/ensorcel-lance-air-resistance.webp)
 ![weapons/staff/ensorcel-lance-air-resistance.webp](weapons/staff/ensorcel-lance-air-resistance.webp)
 ###### [`weapons/staff/floramor-root-wisdom.webp`](weapons/staff/floramor-root-wisdom.webp)
