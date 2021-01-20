@@ -506,6 +506,8 @@
 ![equipment/prysmaradite/iridescent-prysipitate.webp](equipment/prysmaradite/iridescent-prysipitate.webp)
 ###### [`equipment/prysmaradite/shiny-pryssure.webp`](equipment/prysmaradite/shiny-pryssure.webp)
 ![equipment/prysmaradite/shiny-pryssure.webp](equipment/prysmaradite/shiny-pryssure.webp)
+###### [`equipment/ring/allister-ring-ap.webp`](equipment/ring/allister-ring-ap.webp)
+![equipment/ring/allister-ring-ap.webp](equipment/ring/allister-ring-ap.webp)
 ###### [`equipment/ring/barbring-ap.webp`](equipment/ring/barbring-ap.webp)
 ![equipment/ring/barbring-ap.webp](equipment/ring/barbring-ap.webp)
 ###### [`equipment/ring/bearbaric-band-ap.webp`](equipment/ring/bearbaric-band-ap.webp)
