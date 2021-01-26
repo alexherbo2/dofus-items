@@ -206,6 +206,8 @@
 ![equipment/amulet/crabtun-necklace-earth-resistance.webp](equipment/amulet/crabtun-necklace-earth-resistance.webp)
 ###### [`equipment/amulet/crabtun-necklace-ranged-damage.webp`](equipment/amulet/crabtun-necklace-ranged-damage.webp)
 ![equipment/amulet/crabtun-necklace-ranged-damage.webp](equipment/amulet/crabtun-necklace-ranged-damage.webp)
+###### [`equipment/amulet/crabtun-necklace.webp`](equipment/amulet/crabtun-necklace.webp)
+![equipment/amulet/crabtun-necklace.webp](equipment/amulet/crabtun-necklace.webp)
 ###### [`equipment/amulet/cute-koutoulou-pendant-air-resistance.webp`](equipment/amulet/cute-koutoulou-pendant-air-resistance.webp)
 ![equipment/amulet/cute-koutoulou-pendant-air-resistance.webp](equipment/amulet/cute-koutoulou-pendant-air-resistance.webp)
 ###### [`equipment/amulet/ellie-deluxe-mental-amulet-vitality.webp`](equipment/amulet/ellie-deluxe-mental-amulet-vitality.webp)
