@@ -752,6 +752,8 @@
 ![weapons/bow/corrupted-bow-fire-resistance.webp](weapons/bow/corrupted-bow-fire-resistance.webp)
 ###### [`weapons/bow/corrupted-bow.webp`](weapons/bow/corrupted-bow.webp)
 ![weapons/bow/corrupted-bow.webp](weapons/bow/corrupted-bow.webp)
+###### [`weapons/bow/koutoulou-bow.webp`](weapons/bow/koutoulou-bow.webp)
+![weapons/bow/koutoulou-bow.webp](weapons/bow/koutoulou-bow.webp)
 ###### [`weapons/bow/rhineetle-bow-ranged-damage.webp`](weapons/bow/rhineetle-bow-ranged-damage.webp)
 ![weapons/bow/rhineetle-bow-ranged-damage.webp](weapons/bow/rhineetle-bow-ranged-damage.webp)
 ###### [`weapons/dagger/aggravating-daggers-water-damage.webp`](weapons/dagger/aggravating-daggers-water-damage.webp)
