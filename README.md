@@ -292,6 +292,8 @@
 ![equipment/belt/royal-gobball-belt-pods.webp](equipment/belt/royal-gobball-belt-pods.webp)
 ###### [`equipment/belt/slice-undergrowth.webp`](equipment/belt/slice-undergrowth.webp)
 ![equipment/belt/slice-undergrowth.webp](equipment/belt/slice-undergrowth.webp)
+###### [`equipment/belt/suspender-belt.webp`](equipment/belt/suspender-belt.webp)
+![equipment/belt/suspender-belt.webp](equipment/belt/suspender-belt.webp)
 ###### [`equipment/belt/treadfast-belt-ranged-damage.webp`](equipment/belt/treadfast-belt-ranged-damage.webp)
 ![equipment/belt/treadfast-belt-ranged-damage.webp](equipment/belt/treadfast-belt-ranged-damage.webp)
 ###### [`equipment/belt/unstable-belt.webp`](equipment/belt/unstable-belt.webp)
