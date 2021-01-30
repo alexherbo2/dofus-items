@@ -400,6 +400,8 @@
 ![equipment/cloak/rykke-errel-bravery.webp](equipment/cloak/rykke-errel-bravery.webp)
 ###### [`equipment/cloak/treecloak-vitality.webp`](equipment/cloak/treecloak-vitality.webp)
 ![equipment/cloak/treecloak-vitality.webp](equipment/cloak/treecloak-vitality.webp)
+###### [`equipment/cloak/vulture-finery-vitality.webp`](equipment/cloak/vulture-finery-vitality.webp)
+![equipment/cloak/vulture-finery-vitality.webp](equipment/cloak/vulture-finery-vitality.webp)
 ###### [`equipment/cloak/vulture-finery.webp`](equipment/cloak/vulture-finery.webp)
 ![equipment/cloak/vulture-finery.webp](equipment/cloak/vulture-finery.webp)
 ###### [`equipment/dofus/abyssal-dofus.webp`](equipment/dofus/abyssal-dofus.webp)
