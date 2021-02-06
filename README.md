@@ -500,6 +500,8 @@
 ![equipment/hat/queen-thieves-headpiece-air-resistance.webp](equipment/hat/queen-thieves-headpiece-air-resistance.webp)
 ###### [`equipment/hat/rhineetle-helmet-water-resistance.webp`](equipment/hat/rhineetle-helmet-water-resistance.webp)
 ![equipment/hat/rhineetle-helmet-water-resistance.webp](equipment/hat/rhineetle-helmet-water-resistance.webp)
+###### [`equipment/hat/rhineetle-helmet.webp`](equipment/hat/rhineetle-helmet.webp)
+![equipment/hat/rhineetle-helmet.webp](equipment/hat/rhineetle-helmet.webp)
 ###### [`equipment/hat/royal-gobball-headgear-strength.webp`](equipment/hat/royal-gobball-headgear-strength.webp)
 ![equipment/hat/royal-gobball-headgear-strength.webp](equipment/hat/royal-gobball-headgear-strength.webp)
 ###### [`equipment/hat/scapu-helm-fire-resistance.webp`](equipment/hat/scapu-helm-fire-resistance.webp)
