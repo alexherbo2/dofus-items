@@ -32,6 +32,8 @@
 ![ceremonial-item/cloak/sadida-cape.webp](ceremonial-item/cloak/sadida-cape.webp)
 ###### [`ceremonial-item/cloak/zombite-cape.webp`](ceremonial-item/cloak/zombite-cape.webp)
 ![ceremonial-item/cloak/zombite-cape.webp](ceremonial-item/cloak/zombite-cape.webp)
+###### [`ceremonial-item/hat/1001-claws-helmet.webp`](ceremonial-item/hat/1001-claws-helmet.webp)
+![ceremonial-item/hat/1001-claws-helmet.webp](ceremonial-item/hat/1001-claws-helmet.webp)
 ###### [`ceremonial-item/hat/amakna-mask.webp`](ceremonial-item/hat/amakna-mask.webp)
 ![ceremonial-item/hat/amakna-mask.webp](ceremonial-item/hat/amakna-mask.webp)
 ###### [`ceremonial-item/hat/bedazzling-horns.webp`](ceremonial-item/hat/bedazzling-horns.webp)
