@@ -76,6 +76,8 @@
 ![ceremonial-item/hat/sadida-headgear.webp](ceremonial-item/hat/sadida-headgear.webp)
 ###### [`ceremonial-item/hat/samurai-helmet.webp`](ceremonial-item/hat/samurai-helmet.webp)
 ![ceremonial-item/hat/samurai-helmet.webp](ceremonial-item/hat/samurai-helmet.webp)
+###### [`ceremonial-item/hat/shiny-headgear.webp`](ceremonial-item/hat/shiny-headgear.webp)
+![ceremonial-item/hat/shiny-headgear.webp](ceremonial-item/hat/shiny-headgear.webp)
 ###### [`ceremonial-item/hat/tactile-helmet.webp`](ceremonial-item/hat/tactile-helmet.webp)
 ![ceremonial-item/hat/tactile-helmet.webp](ceremonial-item/hat/tactile-helmet.webp)
 ###### [`ceremonial-item/hat/two-horned-hat.webp`](ceremonial-item/hat/two-horned-hat.webp)
