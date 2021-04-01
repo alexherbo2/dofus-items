@@ -50,6 +50,8 @@
 ![ceremonial-item/hat/feather-hat.webp](ceremonial-item/hat/feather-hat.webp)
 ###### [`ceremonial-item/hat/galgarion-helmet.webp`](ceremonial-item/hat/galgarion-helmet.webp)
 ![ceremonial-item/hat/galgarion-helmet.webp](ceremonial-item/hat/galgarion-helmet.webp)
+###### [`ceremonial-item/hat/gladius-headgearicus.webp`](ceremonial-item/hat/gladius-headgearicus.webp)
+![ceremonial-item/hat/gladius-headgearicus.webp](ceremonial-item/hat/gladius-headgearicus.webp)
 ###### [`ceremonial-item/hat/goultard-headgear.webp`](ceremonial-item/hat/goultard-headgear.webp)
 ![ceremonial-item/hat/goultard-headgear.webp](ceremonial-item/hat/goultard-headgear.webp)
 ###### [`ceremonial-item/hat/hats-off-ta-ya-hat.webp`](ceremonial-item/hat/hats-off-ta-ya-hat.webp)
