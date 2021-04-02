@@ -430,6 +430,8 @@
 ![equipment/dofus/crimson-dofus.webp](equipment/dofus/crimson-dofus.webp)
 ###### [`equipment/dofus/dolmanax.webp`](equipment/dofus/dolmanax.webp)
 ![equipment/dofus/dolmanax.webp](equipment/dofus/dolmanax.webp)
+###### [`equipment/dofus/dorigami.webp`](equipment/dofus/dorigami.webp)
+![equipment/dofus/dorigami.webp](equipment/dofus/dorigami.webp)
 ###### [`equipment/dofus/ebony-dofus.webp`](equipment/dofus/ebony-dofus.webp)
 ![equipment/dofus/ebony-dofus.webp](equipment/dofus/ebony-dofus.webp)
 ###### [`equipment/dofus/emerald-dofus.webp`](equipment/dofus/emerald-dofus.webp)
