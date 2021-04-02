@@ -536,6 +536,8 @@
 ![equipment/prysmaradite/disaprys.webp](equipment/prysmaradite/disaprys.webp)
 ###### [`equipment/prysmaradite/iridescent-prysipitate.webp`](equipment/prysmaradite/iridescent-prysipitate.webp)
 ![equipment/prysmaradite/iridescent-prysipitate.webp](equipment/prysmaradite/iridescent-prysipitate.webp)
+###### [`equipment/prysmaradite/iridescent-prytekt.webp`](equipment/prysmaradite/iridescent-prytekt.webp)
+![equipment/prysmaradite/iridescent-prytekt.webp](equipment/prysmaradite/iridescent-prytekt.webp)
 ###### [`equipment/prysmaradite/shiny-pryssure.webp`](equipment/prysmaradite/shiny-pryssure.webp)
 ![equipment/prysmaradite/shiny-pryssure.webp](equipment/prysmaradite/shiny-pryssure.webp)
 ###### [`equipment/ring/allister-ring-ap.webp`](equipment/ring/allister-ring-ap.webp)
