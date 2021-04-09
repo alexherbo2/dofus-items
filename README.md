@@ -594,6 +594,8 @@
 ![equipment/ring/ringaling-mp-critical-resistance.webp](equipment/ring/ringaling-mp-critical-resistance.webp)
 ###### [`equipment/ring/royal-pippin-blop-ring-pods.webp`](equipment/ring/royal-pippin-blop-ring-pods.webp)
 ![equipment/ring/royal-pippin-blop-ring-pods.webp](equipment/ring/royal-pippin-blop-ring-pods.webp)
+###### [`equipment/ring/spilling-ryng.webp`](equipment/ring/spilling-ryng.webp)
+![equipment/ring/spilling-ryng.webp](equipment/ring/spilling-ryng.webp)
 ###### [`equipment/ring/tash-ring-ap.webp`](equipment/ring/tash-ring-ap.webp)
 ![equipment/ring/tash-ring-ap.webp](equipment/ring/tash-ring-ap.webp)
 ###### [`equipment/ring/tritun-ring-ap.webp`](equipment/ring/tritun-ring-ap.webp)
