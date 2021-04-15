@@ -492,6 +492,8 @@
 ![equipment/hat/eachure-hat.webp](equipment/hat/eachure-hat.webp)
 ###### [`equipment/hat/funerbroadsword-mask-earth-resistance.webp`](equipment/hat/funerbroadsword-mask-earth-resistance.webp)
 ![equipment/hat/funerbroadsword-mask-earth-resistance.webp](equipment/hat/funerbroadsword-mask-earth-resistance.webp)
+###### [`equipment/hat/ganymede-diadem.webp`](equipment/hat/ganymede-diadem.webp)
+![equipment/hat/ganymede-diadem.webp](equipment/hat/ganymede-diadem.webp)
 ###### [`equipment/hat/ilyzaelle-helmet.webp`](equipment/hat/ilyzaelle-helmet.webp)
 ![equipment/hat/ilyzaelle-helmet.webp](equipment/hat/ilyzaelle-helmet.webp)
 ###### [`equipment/hat/kideebonnet-range-water-resistance.webp`](equipment/hat/kideebonnet-range-water-resistance.webp)
