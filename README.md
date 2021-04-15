@@ -238,6 +238,8 @@
 ![equipment/amulet/rhineetle-amulet-earth-resistance.webp](equipment/amulet/rhineetle-amulet-earth-resistance.webp)
 ###### [`equipment/amulet/rhineetle-amulet.webp`](equipment/amulet/rhineetle-amulet.webp)
 ![equipment/amulet/rhineetle-amulet.webp](equipment/amulet/rhineetle-amulet.webp)
+###### [`equipment/amulet/sinistrofu-amulet.webp`](equipment/amulet/sinistrofu-amulet.webp)
+![equipment/amulet/sinistrofu-amulet.webp](equipment/amulet/sinistrofu-amulet.webp)
 ###### [`equipment/amulet/spookkoth-amulet-water-resistance.webp`](equipment/amulet/spookkoth-amulet-water-resistance.webp)
 ![equipment/amulet/spookkoth-amulet-water-resistance.webp](equipment/amulet/spookkoth-amulet-water-resistance.webp)
 ###### [`equipment/amulet/spookkoth-amulet.webp`](equipment/amulet/spookkoth-amulet.webp)
