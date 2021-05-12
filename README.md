@@ -406,6 +406,8 @@
 ![equipment/cloak/jahash-jurgen-cloak-ranged-damage.webp](equipment/cloak/jahash-jurgen-cloak-ranged-damage.webp)
 ###### [`equipment/cloak/jammy-jack-cape.webp`](equipment/cloak/jammy-jack-cape.webp)
 ![equipment/cloak/jammy-jack-cape.webp](equipment/cloak/jammy-jack-cape.webp)
+###### [`equipment/cloak/klime-cloak.webp`](equipment/cloak/klime-cloak.webp)
+![equipment/cloak/klime-cloak.webp](equipment/cloak/klime-cloak.webp)
 ###### [`equipment/cloak/mastralis-croak-wisdom.webp`](equipment/cloak/mastralis-croak-wisdom.webp)
 ![equipment/cloak/mastralis-croak-wisdom.webp](equipment/cloak/mastralis-croak-wisdom.webp)
 ###### [`equipment/cloak/merdiodon-cloak-fire-resistance.webp`](equipment/cloak/merdiodon-cloak-fire-resistance.webp)
