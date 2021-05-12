@@ -832,6 +832,8 @@
 ![weapons/staff/sepulchral-sceptre.webp](weapons/staff/sepulchral-sceptre.webp)
 ###### [`weapons/sword/atcham-sabres-spell-damage.webp`](weapons/sword/atcham-sabres-spell-damage.webp)
 ![weapons/sword/atcham-sabres-spell-damage.webp](weapons/sword/atcham-sabres-spell-damage.webp)
+###### [`weapons/sword/furritung.webp`](weapons/sword/furritung.webp)
+![weapons/sword/furritung.webp](weapons/sword/furritung.webp)
 ###### [`weapons/sword/gilbert-g-rapier-water-damage.webp`](weapons/sword/gilbert-g-rapier-water-damage.webp)
 ![weapons/sword/gilbert-g-rapier-water-damage.webp](weapons/sword/gilbert-g-rapier-water-damage.webp)
 ###### [`weapons/sword/peccary-blade-hunting-weapon.webp`](weapons/sword/peccary-blade-hunting-weapon.webp)
