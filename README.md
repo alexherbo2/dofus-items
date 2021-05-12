@@ -282,6 +282,8 @@
 ![equipment/belt/haks-or-belt.webp](equipment/belt/haks-or-belt.webp)
 ###### [`equipment/belt/indigo-blop-belt-suicide.webp`](equipment/belt/indigo-blop-belt-suicide.webp)
 ![equipment/belt/indigo-blop-belt-suicide.webp](equipment/belt/indigo-blop-belt-suicide.webp)
+###### [`equipment/belt/klime-belt.webp`](equipment/belt/klime-belt.webp)
+![equipment/belt/klime-belt.webp](equipment/belt/klime-belt.webp)
 ###### [`equipment/belt/menobelt-air-resistance.webp`](equipment/belt/menobelt-air-resistance.webp)
 ![equipment/belt/menobelt-air-resistance.webp](equipment/belt/menobelt-air-resistance.webp)
 ###### [`equipment/belt/menobelt.webp`](equipment/belt/menobelt.webp)
