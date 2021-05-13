@@ -232,6 +232,8 @@
 ![equipment/amulet/minotoror-necklace-wisdom.webp](equipment/amulet/minotoror-necklace-wisdom.webp)
 ###### [`equipment/amulet/minotot-necklace.webp`](equipment/amulet/minotot-necklace.webp)
 ![equipment/amulet/minotot-necklace.webp](equipment/amulet/minotot-necklace.webp)
+###### [`equipment/amulet/quartzovski-crystal.webp`](equipment/amulet/quartzovski-crystal.webp)
+![equipment/amulet/quartzovski-crystal.webp](equipment/amulet/quartzovski-crystal.webp)
 ###### [`equipment/amulet/renewed-amulet-pods.webp`](equipment/amulet/renewed-amulet-pods.webp)
 ![equipment/amulet/renewed-amulet-pods.webp](equipment/amulet/renewed-amulet-pods.webp)
 ###### [`equipment/amulet/rhineetle-amulet-earth-resistance.webp`](equipment/amulet/rhineetle-amulet-earth-resistance.webp)
