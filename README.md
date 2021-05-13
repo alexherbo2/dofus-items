@@ -848,6 +848,8 @@
 ![weapons/sword/pink-claw-pods.webp](weapons/sword/pink-claw-pods.webp)
 ###### [`weapons/sword/queen-thieves-sword.webp`](weapons/sword/queen-thieves-sword.webp)
 ![weapons/sword/queen-thieves-sword.webp](weapons/sword/queen-thieves-sword.webp)
+###### [`weapons/wand/dreggon-wand.webp`](weapons/wand/dreggon-wand.webp)
+![weapons/wand/dreggon-wand.webp](weapons/wand/dreggon-wand.webp)
 ###### [`weapons/wand/eternal-wand-fire-damage.webp`](weapons/wand/eternal-wand-fire-damage.webp)
 ![weapons/wand/eternal-wand-fire-damage.webp](weapons/wand/eternal-wand-fire-damage.webp)
 ###### [`weapons/wand/ethical-wand-water-damage.webp`](weapons/wand/ethical-wand-water-damage.webp)
