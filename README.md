@@ -572,6 +572,8 @@
 ![equipment/ring/corruption-ring-ap.webp](equipment/ring/corruption-ring-ap.webp)
 ###### [`equipment/ring/corruption-ring-mp-earth-resistance.webp`](equipment/ring/corruption-ring-mp-earth-resistance.webp)
 ![equipment/ring/corruption-ring-mp-earth-resistance.webp](equipment/ring/corruption-ring-mp-earth-resistance.webp)
+###### [`equipment/ring/count-harebourg-ring-ap.webp`](equipment/ring/count-harebourg-ring-ap.webp)
+![equipment/ring/count-harebourg-ring-ap.webp](equipment/ring/count-harebourg-ring-ap.webp)
 ###### [`equipment/ring/crocoburio-strength-pods.webp`](equipment/ring/crocoburio-strength-pods.webp)
 ![equipment/ring/crocoburio-strength-pods.webp](equipment/ring/crocoburio-strength-pods.webp)
 ###### [`equipment/ring/crustic-ring-mp.webp`](equipment/ring/crustic-ring-mp.webp)
