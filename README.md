@@ -316,6 +316,8 @@
 ![equipment/belt/servitude-embrace.webp](equipment/belt/servitude-embrace.webp)
 ###### [`equipment/belt/slice-undergrowth.webp`](equipment/belt/slice-undergrowth.webp)
 ![equipment/belt/slice-undergrowth.webp](equipment/belt/slice-undergrowth.webp)
+###### [`equipment/belt/sneerena-loincloth.webp`](equipment/belt/sneerena-loincloth.webp)
+![equipment/belt/sneerena-loincloth.webp](equipment/belt/sneerena-loincloth.webp)
 ###### [`equipment/belt/suspender-belt.webp`](equipment/belt/suspender-belt.webp)
 ![equipment/belt/suspender-belt.webp](equipment/belt/suspender-belt.webp)
 ###### [`equipment/belt/treadfast-belt-ranged-damage.webp`](equipment/belt/treadfast-belt-ranged-damage.webp)
