@@ -33,6 +33,30 @@
 
 <details>
 
+<summary>Osamodas Water</summary>
+
+![](equipment/hat/ilyzaelle-helmet-spell-damage.webp)
+![](equipment/cloak/sinistrofu-cloak-spell-damage.webp)
+![](equipment/amulet/sinistrofu-amulet-spell-damage.webp)
+![](equipment/ring/rhineetle-ring-ap.webp)
+![](equipment/ring/bearbaric-wedding-ring-mp-air-resistance.webp)
+![](equipment/belt/servitude-embrace-spell-damage.webp)
+![](equipment/boots/sinistrofu-boots-spell-damage.webp)
+![](weapons/bow/jobimcarl-bow-ranged-damage.webp)
+![](equipment/shield/ilyzaelle-shield-spell-damage.webp)
+![](pets/pet/kanigloopy.webp)
+![](equipment/dofus/ochre-dofus.webp)
+![](equipment/dofus/abyssal-dofus.webp)
+![](equipment/dofus/ice-dofus.webp)
+![](equipment/trophy/major-tease.webp)
+![](equipment/trophy/major-water-wrecker.webp)
+
+</details>
+
+<!----------------------------------------------------------------------------->
+
+<details>
+
 <summary>Eliotrope Earth Critical</summary>
 
 ![](equipment/hat/turtelonia-horn-ranged-damage.webp)
