@@ -64,6 +64,35 @@
 
 <!----------------------------------------------------------------------------->
 
+## Sram
+
+<!----------------------------------------------------------------------------->
+
+<details>
+
+<summary>Sram Earth Trap</summary>
+
+![](equipment/hat/king-playa-crown.webp)
+![](equipment/cloak/jahash-jurgen-cloak-ranged-damage.webp)
+![](equipment/amulet/rhineetle-amulet.webp)
+![](equipment/ring/king-playa-signet-ring-mp.webp)
+![](equipment/ring/bearbaric-band-ap.webp)
+![](equipment/belt/rhineetle-belt.webp)
+![](equipment/boots/king-playa-boots.webp)
+![](weapons/bow/catseye-bow-neutral-damage.webp)
+![](equipment/shield/stalak-shield-range.webp)
+![](pets/petsmount/skrot.webp)
+![](equipment/prysmaradite/shiny-pryssure.webp)
+![](equipment/dofus/vulbis-dofus.webp)
+![](equipment/dofus/ochre-dofus.webp)
+![](equipment/dofus/abyssal-dofus.webp)
+![](equipment/dofus/cloudy-dofus.webp)
+![](equipment/dofus/ice-dofus.webp)
+
+</details>
+
+<!----------------------------------------------------------------------------->
+
 ## Cra
 
 <!----------------------------------------------------------------------------->
