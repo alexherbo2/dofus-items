@@ -56,6 +56,7 @@
 ![](equipment/dofus/ochre-dofus.webp)
 ![](equipment/dofus/abyssal-dofus.webp)
 ![](equipment/dofus/ice-dofus.webp)
+![](equipment/dofus/emerald-dofus.webp)
 ![](equipment/trophy/major-tease.webp)
 ![](equipment/trophy/major-water-wrecker.webp)
 
