@@ -1,4 +1,4 @@
 #!/bin/sh
 
-fd --type file .webp equipment/hat equipment/cloak equipment/amulet equipment/ring equipment/belt equipment/boots weapons equipment/shield |
+fd --type file .webp equipment/hat equipment/cloak equipment/amulet equipment/ring equipment/belt equipment/boots weapons equipment/shield --exclude '*-pods.webp' --exclude '*-suicide.webp' --exclude '*-wisdom.webp' |
 kak -f '<a-s>_yi![<c-r>"](<esc>a)<esc>O######<space>[`<c-r>"`](<c-r>")'
