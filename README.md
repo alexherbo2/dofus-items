@@ -55,3 +55,28 @@
 </details>
 
 <!----------------------------------------------------------------------------->
+
+<details>
+
+<summary>Eliotrope Fire Critical</summary>
+
+![](equipment/hat/nomarow-helmet-ranged-damage.webp)
+![](equipment/cloak/jahash-jurgen-cloak-ranged-damage.webp)
+![](equipment/amulet/age-old-amulet-critical.webp)
+![](equipment/ring/nomarow-ring-mp.webp)
+![](equipment/ring/war-gauntlet-ap.webp)
+![](equipment/belt/age-old-belt-ranged-damage.webp)
+![](equipment/boots/nomarow-getas-ranged-damage.webp)
+![](weapons/wand/etymolowand-ranged-damage.webp)
+![](equipment/shield/four-leaf-spell-damage.webp)
+![](pets/petsmount/skrot.webp)
+![](equipment/prysmaradite/disaprys.webp)
+![](equipment/dofus/vulbis-dofus.webp)
+![](equipment/dofus/ochre-dofus.webp)
+![](equipment/dofus/turquoise-dofus.webp)
+![](equipment/dofus/abyssal-dofus.webp)
+![](equipment/dofus/crimson-dofus.webp)
+
+</details>
+
+<!----------------------------------------------------------------------------->
