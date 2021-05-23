@@ -80,3 +80,28 @@
 </details>
 
 <!----------------------------------------------------------------------------->
+
+<details>
+
+<summary>Eliotrope Air Critical</summary>
+
+![](equipment/hat/nomarow-helmet-ranged-damage.webp)
+![](equipment/backpack/turtelonia-carapace-ranged-damage.webp)
+![](equipment/amulet/treadfast-amulet-ranged-damage.webp)
+![](equipment/ring/nomarow-ring-mp.webp)
+![](equipment/ring/allister-ring-ap.webp)
+![](equipment/belt/treadfast-belt-ranged-damage.webp)
+![](equipment/boots/nomarow-getas-ranged-damage.webp)
+![](weapons/wand/turtelonia-wand-ranged-damage.webp)
+![](equipment/shield/four-leaf-spell-damage.webp)
+![](pets/petsmount/skrot.webp)
+![](equipment/prysmaradite/disaprys.webp)
+![](equipment/dofus/vulbis-dofus.webp)
+![](equipment/dofus/ochre-dofus.webp)
+![](equipment/dofus/turquoise-dofus.webp)
+![](equipment/dofus/abyssal-dofus.webp)
+![](equipment/dofus/crimson-dofus.webp)
+
+</details>
+
+<!----------------------------------------------------------------------------->
