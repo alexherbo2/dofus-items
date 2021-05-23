@@ -4,8 +4,6 @@
 
 [Dofus]: https://dofus.com
 
-**Note**: Items marked with a tilde (`~`) in their path are items I don’t have anymore.
-
 ###### [`equipment/amulet/age-old-amulet.webp`](equipment/amulet/age-old-amulet.webp)
 ![equipment/amulet/age-old-amulet.webp](equipment/amulet/age-old-amulet.webp)
 ###### [`equipment/amulet/amulet-bleeding-heart-ranged-damage.webp`](equipment/amulet/amulet-bleeding-heart-ranged-damage.webp)
