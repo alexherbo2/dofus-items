@@ -63,6 +63,35 @@
 
 <!----------------------------------------------------------------------------->
 
+## Cra
+
+<!----------------------------------------------------------------------------->
+
+<details>
+
+<summary>Cra Earth Critical</summary>
+
+![](equipment/hat/count-harebourg-ranged-damage.webp)
+![](equipment/cloak/jahash-jurgen-cloak-ranged-damage.webp)
+![](equipment/amulet/amulet-bleeding-heart-ranged-damage.webp)
+![](equipment/ring/count-harebourg-ring-ap.webp)
+![](equipment/ring/broucey-ring-mp.webp)
+![](equipment/belt/broucey-belt-ranged-damage.webp)
+![](equipment/boots/broucey-boots-ranged-damage.webp)
+![](weapons/bow/catseye-bow-ranged-damage-hunting-weapon.webp)
+![](equipment/shield/four-leaf-range.webp)
+![](pets/pet/snailmate.webp)
+![](equipment/dofus/vulbis-dofus.webp)
+![](equipment/dofus/ochre-dofus.webp)
+![](equipment/dofus/turquoise-dofus.webp)
+![](equipment/dofus/cloudy-dofus.webp)
+![](equipment/dofus/crimson-dofus.webp)
+![](equipment/trophy/major-goliath.webp)
+
+</details>
+
+<!----------------------------------------------------------------------------->
+
 ## Eliotrope
 
 <!----------------------------------------------------------------------------->
