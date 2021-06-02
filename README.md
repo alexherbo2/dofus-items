@@ -178,6 +178,31 @@
 
 <details>
 
+<summary>Eliotrope Water Critical</summary>
+
+![](equipment/hat/kideebonnet-ranged-damage.webp)
+![](equipment/cloak/queen-of-fate-cape-ranged-damage.webp)
+![](equipment/amulet/treadfast-amulet-ranged-damage.webp)
+![](equipment/ring/rhineetle-ring-ap.webp)
+![](equipment/ring/misery-greed-mp.webp)
+![](equipment/belt/treadfast-belt-ranged-damage.webp)
+![](equipment/boots/queen-of-fate-boots-ranged-damage.webp)
+![](weapons/dagger/daguanos-spell-damage.webp)
+![](equipment/shield/four-leaf-spell-damage.webp)
+![](pets/pet/snailmate.webp)
+![](equipment/dofus/vulbis-dofus.webp)
+![](equipment/dofus/ochre-dofus.webp)
+![](equipment/dofus/turquoise-dofus.webp)
+![](equipment/dofus/abyssal-dofus.webp)
+![](equipment/dofus/crimson-dofus.webp)
+![](equipment/dofus/ice-dofus.webp)
+
+</details>
+
+<!----------------------------------------------------------------------------->
+
+<details>
+
 <summary>Eliotrope Air Critical</summary>
 
 ![](equipment/hat/nomarow-helmet-ranged-damage.webp)
