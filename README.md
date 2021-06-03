@@ -122,6 +122,31 @@
 
 <!----------------------------------------------------------------------------->
 
+<details>
+
+<summary>Sram Water Air</summary>
+
+![](equipment/hat/rhineetle-helmet.webp)
+![](equipment/cloak/jahash-jurgen-cloak-ranged-damage.webp)
+![](equipment/amulet/voldelor-amulet.webp)
+![](equipment/ring/rhineetle-ring-ap.webp)
+![](equipment/ring/bearbaric-wedding-ring-mp-air-resistance.webp)
+![](equipment/belt/voldelor-belt.webp)
+![](equipment/boots/voldelor-boots.webp)
+![](weapons/bow/koutoulou-bow.webp)
+![](equipment/shield/stalak-shield-range.webp)
+![](pets/petsmount/skrot.webp)
+![](equipment/dofus/vulbis-dofus.webp)
+![](equipment/dofus/ochre-dofus.webp)
+![](equipment/dofus/ivory-dofus.webp)
+![](equipment/dofus/abyssal-dofus.webp)
+![](equipment/dofus/cloudy-dofus.webp)
+![](equipment/dofus/ice-dofus.webp)
+
+</details>
+
+<!----------------------------------------------------------------------------->
+
 ## Cra
 
 <!----------------------------------------------------------------------------->
