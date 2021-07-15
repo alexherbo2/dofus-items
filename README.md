@@ -70,6 +70,31 @@
 
 <details>
 
+<summary>Enutrof Air Critical</summary>
+
+![](equipment/hat/nomarow-helmet-ranged-damage.webp)
+![](equipment/cloak/klime-cloak.webp)
+![](equipment/amulet/quartzovski-crystal.webp)
+![](equipment/ring/nomarow-ring-mp.webp)
+![](equipment/ring/allister-ring-ap.webp)
+![](equipment/belt/klime-belt.webp)
+![](equipment/boots/nomarow-getas-ranged-damage.webp)
+![](weapons/scythe/faux-netic-scythe.webp)
+![](equipment/shield/four-leaf-range.webp)
+![](pets/petsmount/skrot.webp)
+![](equipment/dofus/vulbis-dofus.webp)
+![](equipment/dofus/ochre-dofus.webp)
+![](equipment/dofus/turquoise-dofus.webp)
+![](equipment/dofus/cloudy-dofus.webp)
+![](equipment/dofus/crimson-dofus.webp)
+![](equipment/dofus/ice-dofus.webp)
+
+</details>
+
+<!----------------------------------------------------------------------------->
+
+<details>
+
 <summary>Enutrof Fire Critical</summary>
 
 ![](equipment/hat/nomarow-helmet-ranged-damage.webp)
