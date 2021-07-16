@@ -73,11 +73,11 @@
 <summary>Enutrof Air Critical</summary>
 
 ![](equipment/hat/nomarow-helmet-ranged-damage.webp)
-![](equipment/cloak/klime-cloak.webp)
-![](equipment/amulet/quartzovski-crystal.webp)
+![](equipment/cloak/klime-cloak-spell-damage.webp)
+![](equipment/amulet/quartzovski-crystal-spell-damage.webp)
 ![](equipment/ring/nomarow-ring-mp.webp)
 ![](equipment/ring/allister-ring-ap.webp)
-![](equipment/belt/klime-belt.webp)
+![](equipment/belt/klime-belt-spell-damage.webp)
 ![](equipment/boots/nomarow-getas-ranged-damage.webp)
 ![](weapons/scythe/faux-netic-scythe.webp)
 ![](equipment/shield/four-leaf-range.webp)
