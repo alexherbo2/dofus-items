@@ -79,7 +79,7 @@
 ![](equipment/ring/allister-ring-ap.webp)
 ![](equipment/belt/klime-belt-spell-damage.webp)
 ![](equipment/boots/nomarow-getas-ranged-damage.webp)
-![](weapons/scythe/faux-netic-scythe.webp)
+![](weapons/scythe/faux-netic-scythe-spell-damage.webp)
 ![](equipment/shield/four-leaf-range.webp)
 ![](pets/petsmount/skrot.webp)
 ![](equipment/dofus/vulbis-dofus.webp)
