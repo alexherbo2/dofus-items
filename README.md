@@ -201,6 +201,31 @@
 
 <!----------------------------------------------------------------------------->
 
+<details>
+
+<summary>Cra Omni Critical</summary>
+
+![](equipment/hat/nomarow-helmet-ranged-damage.webp)
+![](equipment/cloak/jahash-jurgen-cloak-ranged-damage.webp)
+![](equipment/amulet/treadfast-amulet-ranged-damage.webp)
+![](equipment/ring/nomarow-ring-mp.webp)
+![](equipment/ring/hairsh-bracelet-ap.webp)
+![](equipment/belt/treadfast-belt-ranged-damage.webp)
+![](equipment/boots/nomarow-getas-ranged-damage.webp)
+![](weapons/bow/rhineetle-bow-ranged-damage.webp)
+![](equipment/shield/four-leaf-range.webp)
+![](pets/pet/snailmate.webp)
+![](equipment/dofus/vulbis-dofus.webp)
+![](equipment/dofus/ochre-dofus.webp)
+![](equipment/dofus/turquoise-dofus.webp)
+![](equipment/dofus/cloudy-dofus.webp)
+![](equipment/dofus/crimson-dofus.webp)
+![](equipment/dofus/ice-dofus.webp)
+
+</details>
+
+<!----------------------------------------------------------------------------->
+
 ## Eliotrope
 
 <!----------------------------------------------------------------------------->
