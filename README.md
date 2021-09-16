@@ -149,6 +149,31 @@
 
 <details>
 
+<summary>Sram Earth Trap Damage</summary>
+
+![](equipment/hat/solomonk-spell-damage.webp)
+![](equipment/cloak/jahash-jurgen-cloak-ranged-damage.webp)
+![](equipment/amulet/crabtun-necklace.webp)
+![](equipment/ring/broucey-ring-ap-initiative.webp)
+![](equipment/ring/hairsh-bracelet-summon-neutral-damage.webp)
+![](equipment/belt/broucey-belt-ranged-damage.webp)
+![](equipment/boots/broucey-boots-ranged-damage.webp)
+![](weapons/dagger/ice-daggers-spell-damage-hunting-weapon.webp)
+![](equipment/shield/stalak-shield-range.webp)
+![](pets/petsmount/skrot.webp)
+![](equipment/prysmaradite/disaprys.webp)
+![](equipment/dofus/vulbis-dofus.webp)
+![](equipment/dofus/ochre-dofus.webp)
+![](equipment/dofus/abyssal-dofus.webp)
+![](equipment/dofus/cloudy-dofus.webp)
+![](equipment/dofus/ice-dofus.webp)
+
+</details>
+
+<!----------------------------------------------------------------------------->
+
+<details>
+
 <summary>Sram Earth Trap</summary>
 
 ![](equipment/hat/king-playa-crown.webp)
