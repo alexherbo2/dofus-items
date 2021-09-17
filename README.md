@@ -153,7 +153,7 @@
 
 ![](equipment/hat/solomonk-spell-damage.webp)
 ![](equipment/cloak/jahash-jurgen-cloak-ranged-damage.webp)
-![](equipment/amulet/crabtun-necklace.webp)
+![](equipment/amulet/crabtun-necklace-spell-damage.webp)
 ![](equipment/ring/broucey-ring-ap-initiative.webp)
 ![](equipment/ring/hairsh-bracelet-summon-neutral-damage.webp)
 ![](equipment/belt/broucey-belt-ranged-damage.webp)
